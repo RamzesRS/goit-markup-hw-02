@@ -262,6 +262,7 @@ body {
 	letter-spacing: 0.06em;
 	text-transform: uppercase;
 	color: #212121;
+	margin: 0 auto;
 }
 
 .portfolio-list {
